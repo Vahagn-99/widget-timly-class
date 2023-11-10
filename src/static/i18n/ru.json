@@ -1,0 +1,19 @@
+{
+    "widget": {
+        "name": "timlyclass.com",
+        "short_description": "timly class",
+        "description": "timly class"
+    },
+    "settings": {
+        "json": "Логин",
+        "api_key": "ключ API",
+        "account": "Аккаунт",
+        "try_free": "Попробовать бесплатно"
+    },
+    "advanced": {
+        "title": "timly class"
+    },
+    "lang": {
+        "code": "timly-class"
+    }
+}
